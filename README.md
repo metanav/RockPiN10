@@ -1,6 +1,8 @@
-# Rock Pi N10 (RK3399Pro)
+# Rock Pi N10 (RK3399Pro) NPU demo
+Capturing video from raspberry Pi v2 camera snd streaming inferencing output over network using Gstreamer 
 
-## Capturing video from raspberry Pi v2 camera snd streaming inferencing output over network using Gstreamer 
 
-## Prerequisite
-python3 and RKNN-Toolkit
+###Follow links below to install prerequisites.
+https://wiki.radxa.com/RockpiN10/hardware/camera/
+https://wiki.radxa.com/AI/RKNN-Toolkit
+

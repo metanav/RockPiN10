@@ -1,5 +1,5 @@
 # Rock Pi N10 (RK3399Pro) NPU demo
-Capturing video from raspberry Pi v2 camera snd streaming inferencing output over network using Gstreamer 
+Capturing video from Raspberry Pi camera V2 snd streaming inferencing output over network using Gstreamer 
 
 
 ###Follow links below to install prerequisites.

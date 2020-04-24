@@ -12,8 +12,8 @@ $ git clone https://github.com/metanav/RockPiN10.git
 
 $ cd RockPiN10/rknn_tflite_mobilenet_v1
 
-Note: change host and port to receive stream at your target machine at line 127 in the inference.py script 
-
+Note: change the host and port to receive UDP stream at your target machine at line 127 in the inference.py script.
+The host ip is your desktop or laptop ip address.
 ### Run
 $ python3 inference.py
 

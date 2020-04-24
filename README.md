@@ -7,14 +7,14 @@ https://wiki.radxa.com/RockpiN10/hardware/camera/
 
 https://wiki.radxa.com/AI/RKNN-Toolkit
 
-## Clone
+### Clone
 $ git clone https://github.com/metanav/RockPiN10.git
 
 $ cd RockPiN10/rknn_tflite_mobilenet_v1
 
 Note: change host and port to receive stream at your target machine at line 127 in the inference.py script 
 
-# Run
+### Run
 $ python3 inference.py
 
 At the target machine install Gstreamer and run the following command (change port to match with the source above):
